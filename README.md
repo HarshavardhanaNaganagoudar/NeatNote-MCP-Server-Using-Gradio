@@ -69,7 +69,7 @@ Here's how it is structured:
 ```
 
 * Once the MCP server is integrated into the Claude, then in the Claude UI enable the tools.
-* Attach the notes.txt file with some messy notes or enter some notes manually (i.e 
+* Attach the notes.txt file with some messy notes or enter some notes manually (i.e Need to send an urgent mail, need to  do some project research)
 * **Example prompt to use on claude**: Convert the attached file messy notes into beautiful structured notes in Inconsolata font html file.
 
 ---
